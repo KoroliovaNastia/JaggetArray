@@ -10,3 +10,15 @@ D:\univer\proga\C#\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\System.Xml.4.
 D:\univer\proga\C#\ConsoleJaggetArray\ConsoleJaggetArray\obj\Debug\ConsoleJaggetArray.csprojResolveAssemblyReference.cache
 D:\univer\proga\C#\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\Project1.dll
 D:\univer\proga\C#\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\Project1.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\ConsoleJaggetArray.exe.config
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\obj\Debug\ConsoleJaggetArray.exe
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\obj\Debug\ConsoleJaggetArray.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\ConsoleJaggetArray.exe
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\ConsoleJaggetArray.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\Project1.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\System.Xml.4.0.0.0.Fakes.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\Project1.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\System.Xml.4.0.0.0.Fakes.xml
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\obj\Debug\ConsoleJaggetArray.csprojResolveAssemblyReference.cache

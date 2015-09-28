@@ -7,7 +7,7 @@
     <ProjectGuid>{E0220C35-94A7-430A-BD96-614217E4D388}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleJaggetArray</RootNamespace>
+    <RootNamespace>ConsoleJaggedArray</RootNamespace>
     <AssemblyName>ConsoleJaggetArray</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

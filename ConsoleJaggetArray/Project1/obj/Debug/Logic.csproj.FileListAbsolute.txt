@@ -4,3 +4,9 @@ D:\univer\proga\C#\ConsoleJaggetArray\Project1\bin\Debug\Project1.pdb
 D:\univer\proga\C#\ConsoleJaggetArray\Project1\obj\Debug\Project1.dll
 D:\univer\proga\C#\ConsoleJaggetArray\Project1\obj\Debug\Project1.pdb
 D:\univer\proga\C#\ConsoleJaggetArray\Project1\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\bin\Debug\Project1.dll.config
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\bin\Debug\Project1.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\bin\Debug\Project1.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\obj\Debug\Project1.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\obj\Debug\Project1.pdb

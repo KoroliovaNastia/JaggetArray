@@ -24,14 +24,21 @@ namespace ConsoleJaggetArray
         static void Main(string[] args)
         {
             int[][] jaggedArray = new int[3][];
-            jaggedArray[0] = new int[] { 1, 31, 5, 7 };
-            jaggedArray[1] = new int[] { 2, 14 };
-            jaggedArray[2] = new int[] { 11, 3, 9 };
+            jaggedArray[0] = new int[] {0};
+            jaggedArray[1] = new int[] {0};
+            jaggedArray[2] = new int[] {0};
 
-            //Logic.SortMaxElem(jaggedArray);
-            //Logic.SortMinElem(jaggedArray);
-            Logic.SortMaxSumm(jaggedArray);
-            Show(jaggedArray);
+            if (Logic.CheckMass(jaggedArray))
+            {
+                //Logic.SortMaxElem(jaggedArray);
+                //Logic.SortMinElem(jaggedArray);
+                Logic.SortMaxSumm(jaggedArray);
+                Show(jaggedArray);
+            }
+            else 
+            {
+                Console.WriteLine("Default mass");
+            }
             Console.ReadKey();
         }
     }
