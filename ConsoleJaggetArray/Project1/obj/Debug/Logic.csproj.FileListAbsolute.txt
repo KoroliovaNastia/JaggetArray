@@ -10,3 +10,5 @@ C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\bin\Deb
 C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\obj\Debug\Logic.csprojResolveAssemblyReference.cache
 C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\obj\Debug\Project1.dll
 C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\obj\Debug\Project1.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\bin\Debug\nunit.framework.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\Project1\bin\Debug\nunit.framework.xml

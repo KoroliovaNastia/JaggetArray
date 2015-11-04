@@ -33,6 +33,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.4.0.0.0.Fakes">
@@ -50,11 +53,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Project1\Logic.csproj">
       <Project>{8c7f9f05-c7db-47cd-a7cb-b5c676216e07}</Project>
       <Name>Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnitTestJaggetArray\UnitTestJaggetArray.csproj">
+      <Project>{78e7975b-ab3b-49b7-819c-76f5917ccf00}</Project>
+      <Name>UnitTestJaggetArray</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

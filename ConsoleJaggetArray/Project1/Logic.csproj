@@ -7,7 +7,7 @@
     <ProjectGuid>{8C7F9F05-C7DB-47CD-A7CB-B5C676216E07}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Project1</RootNamespace>
+    <RootNamespace>LogicForArray</RootNamespace>
     <AssemblyName>Project1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -36,11 +36,19 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AllFunction.cs" />
     <Compile Include="Logic.cs" />
+    <Compile Include="SortMax.cs" />
+    <Compile Include="SortMin.cs" />
+    <Compile Include="SortSum.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>..\packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

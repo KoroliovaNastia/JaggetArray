@@ -28,17 +28,17 @@ namespace ConsoleJaggetArray
             jaggedArray[1] = new int[] {0};
             jaggedArray[2] = new int[] {0};
 
-            if (Logic.CheckMass(jaggedArray))
-            {
-                //Logic.SortMaxElem(jaggedArray);
-                //Logic.SortMinElem(jaggedArray);
-                Logic.SortMaxSumm(jaggedArray);
-                Show(jaggedArray);
-            }
-            else 
-            {
-                Console.WriteLine("Default mass");
-            }
+            //if (Logic.CheckMass(jaggedArray))
+            //{
+            //    //Logic.SortMaxElem(jaggedArray);
+            //    //Logic.SortMinElem(jaggedArray);
+            //    //Logic.SortMaxSumm(jaggedArray);
+            //    Show(jaggedArray);
+            //}
+            //else 
+            //{
+            //    Console.WriteLine("Default mass");
+            //}
             Console.ReadKey();
         }
     }

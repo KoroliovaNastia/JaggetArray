@@ -22,3 +22,7 @@ C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArr
 C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\System.Xml.4.0.0.0.Fakes.xml
 C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
 C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\obj\Debug\ConsoleJaggetArray.csprojResolveAssemblyReference.cache
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\nunit.framework.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\UnitTestJaggetArray.dll
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\UnitTestJaggetArray.pdb
+C:\Users\Nastia\Documents\GitHub\JaggetArray\ConsoleJaggetArray\ConsoleJaggetArray\bin\Debug\nunit.framework.xml
